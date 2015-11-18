@@ -5,9 +5,11 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: ruby 2.1.7
 
-* System dependencies
+* System dependencies:
+	Rails 4.2.5
+	SQLite3 
 
 * Configuration
 
